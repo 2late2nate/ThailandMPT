@@ -130,7 +130,7 @@ const textNodes = [
 
     {
         id: 7, 
-        text:'Thank you for playing! This was a game made for Grade 9’s Filipino MPT, group four.\n\nThis was made by Naoe from March 12-14.\n\nWe hope you had fun learning about Thailand in this short game!',
+        text:'Thank you for playing! This was a game made for Grade 9’s Filipino MPT, group four.\n\nThis was made by Nathaniella from March 12-14.\n\nWe hope you had fun learning about Thailand in this short game!',
         options: [
             {text : 'Restart',
             nextText: -1},
