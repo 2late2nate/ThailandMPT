@@ -110,7 +110,7 @@ const textNodes = [
 
     {
         id: 7, 
-        text:'Salamat sa paglalaro! Ito ay isang laro na ginawa para sa Grade 9’s Filipino MPT, pangkat apat.\n\nIto ay ginawa ni Naoe mula Marso 12-14.\n\nInaasahan namin na ikaw ay nag-enjoy at natuwa sa pagtuturo tungkol sa Thailand sa maikling laro na ito!',
+        text:'Salamat sa paglalaro! Ito ay isang laro na ginawa para sa Grade 9’s Filipino MPT, pangkat apat.\n\nIto ay ginawa ni Nathaniella mula Marso 12-14.\n\nInaasahan namin na ikaw ay nag-enjoy at natuwa sa pagtuturo tungkol sa Thailand sa maikling laro na ito!',
         options: [
             {text : 'Restart',
             nextText: -1},
